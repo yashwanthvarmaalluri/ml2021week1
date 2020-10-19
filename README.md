@@ -21,7 +21,7 @@ A chatbot is a software application used to conduct an on-line chat conversation
 # Video of Working demo of the chat bot
 - https://youtu.be/6ZpVI1Hfxig
 ## Conclusion
-With the experience that I've gained by doing this project I would like to make a chatbot which helps a student for his academic development with the help of my team mates. The functionalities of chatbot that we've planned so far are:
+With the experience that I've gained by doing this project I would like to make a chatbot which helps a student for his academic development with the help of my team mates(18PA1A0506(Me),18PA1A0511,18PA1A0530). The functionalities of chatbot that we've planned so far are:
 1. It should suggest best textbooks for students.
 2. It should suggest best courses on different platforms like udemy,coursera,edx etc.,
 3. It should conduct quizzes to the student.
