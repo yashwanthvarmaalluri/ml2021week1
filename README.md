@@ -5,7 +5,7 @@ This is a console based chatbot.It is a multifunctional bot.The objective of thi
 
 # What this bot can do?
 * It greets the user by his name 
-* It wishes him according to the time of the day
+* It wishes the user according to the time of the day
 * It is useful in currency conversion
 * It can evaluate expressions
 * It provides interesting facts
@@ -17,7 +17,7 @@ A chatbot is a software application used to conduct an on-line chat conversation
 # References
 - API link -https://rapidapi.com/fyhao/api/currency-exchange/endpoints
 - Tool used for block diagram -https://lucid.app
-- The idea of this chatbot is inspired from one of the lectures of my professor Dr.Abhinav Dayal
+- The idea of this chatbot is inspired from one of the lectures of our  professor Dr.Abhinav Dayal
 # Video of Working demo of the chat bot
 - https://youtu.be/6ZpVI1Hfxig
 ## Conclusion
